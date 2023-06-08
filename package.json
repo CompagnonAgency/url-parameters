@@ -1,5 +1,5 @@
 {
-  "name": "url-parameters",
+  "name": "@compagnon/url-parameters",
   "version": "1.6.1",
   "description": "A package to help you easily manage url parameters with browser history support and listening for changes.",
   "main": "index.js",
@@ -14,13 +14,13 @@
     "parameters",
     "query string"
   ],
-  "author": "Mattias Persson <mattias@happypixels.se>",
+  "author": "Falko Joseph <falko@compagnon.agency>",
   "license": "MIT",
   "dependencies": {
     "location-bar": "3.0.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mattias-persson/url-parameters.git"
+    "url": "https://github.com/CompagnonAgency/url-parameters.git"
   }
 }
