@@ -1,4 +1,4 @@
-const LocationBar = require("location-bar");
+import locationBar from "location-bar";
 const locationBar = new LocationBar();
 
 function Url(){}
